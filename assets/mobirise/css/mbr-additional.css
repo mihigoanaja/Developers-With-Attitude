@@ -1651,9 +1651,6 @@ a {
 .cid-uilo4iEEtU img,
 .cid-uilo4iEEtU .item-img {
   width: 100%;
-  height: 100%;
-  height: 400px;
-  object-fit: cover;
 }
 .cid-uilo4iEEtU .item:focus,
 .cid-uilo4iEEtU span:focus {
